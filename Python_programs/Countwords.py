@@ -5,7 +5,7 @@
 # count=len(words)
 # print(count)
 
-sentence ="Karthikeyan is very good boy da "
+sentence ="Karthikeyan is good boy da "
 count =0
 for i in sentence:
     if i==" ":
