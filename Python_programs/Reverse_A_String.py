@@ -1,8 +1,8 @@
 # Reverse a string
 
-context="python"
+context="Hello world"
 reverse =""
-for i in ntcoext:
+for i in context:
     reverse =i+reverse
 print(reverse,end="")
 
